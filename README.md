@@ -1,7 +1,8 @@
-# CarND-Controls-MPC
+# Model Predictive Controller Project
 Self-Driving Car Engineer Nanodegree Program
 
 ---
+This project implements an Model Predictive Controller that used to generate steering and acceleration actuation inputs to drive a car around a simulated track provided by Udacity, which provides the relevant waypoints, and telemetry data. The project also models latency to simulate real world latency encoutered in vehicle controller actuators. Please refer to project writeup for more details.
 
 ## Dependencies
 
